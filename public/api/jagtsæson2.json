@@ -1,0 +1,144 @@
+{
+    "success": true,
+    "data": {
+      "id": 1125607,
+      "title": "Jagtsæson 2 - I medgang og modgang",
+      "description": "Eva, Marlene og Bella er tilbage i en hylende morsom og tåkrummende 2'er. Eva har mistet sit job, Marlene blevet forfremmet, og Bella skal giftes med Evas eksmand - hvilket kun gør det hele værre.",
+      "tagline": null,
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "date": "2024-03-09",
+      "rating": 44,
+      "suggested": [
+        {
+          "id": 967847,
+          "title": "Ghostbusters: Frozen Empire",
+          "poster": "https://image.tmdb.org/t/p/w300/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 466272,
+          "title": "Once Upon a Time... in Hollywood",
+          "poster": "https://image.tmdb.org/t/p/w300/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 502356,
+          "title": "The Super Mario Bros. Movie",
+          "poster": "https://image.tmdb.org/t/p/w300/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 76600,
+          "title": "Avatar: The Way of Water",
+          "poster": "https://image.tmdb.org/t/p/w300/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 872585,
+          "title": "Oppenheimer",
+          "poster": "https://image.tmdb.org/t/p/w300/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 792307,
+          "title": "Poor Things",
+          "poster": "https://image.tmdb.org/t/p/w300/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 671,
+          "title": "Harry Potter and the Philosopher's Stone",
+          "poster": "https://image.tmdb.org/t/p/w300/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 577922,
+          "title": "Tenet",
+          "poster": "https://image.tmdb.org/t/p/w300/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 533535,
+          "title": "Deadpool & Wolverine",
+          "poster": "https://image.tmdb.org/t/p/w300/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 361743,
+          "title": "Top Gun: Maverick",
+          "poster": "https://image.tmdb.org/t/p/w300/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 278,
+          "title": "The Shawshank Redemption",
+          "poster": "https://image.tmdb.org/t/p/w300/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 447365,
+          "title": "Guardians of the Galaxy Vol. 3",
+          "poster": "https://image.tmdb.org/t/p/w300/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 497582,
+          "title": "Enola Holmes",
+          "poster": "https://image.tmdb.org/t/p/w300/riYInlsq2kf1AWoGm80JQW5dLKp.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 948,
+          "title": "Halloween",
+          "poster": "https://image.tmdb.org/t/p/w300/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 475557,
+          "title": "Joker",
+          "poster": "https://image.tmdb.org/t/p/w300/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 120,
+          "title": "The Lord of the Rings: The Fellowship of the Ring",
+          "poster": "https://image.tmdb.org/t/p/w300/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 615777,
+          "title": "Babylon",
+          "poster": "https://image.tmdb.org/t/p/w300/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 350,
+          "title": "The Devil Wears Prada",
+          "poster": "https://image.tmdb.org/t/p/w300/1LwW0W0Zyik00OmQPTnCUjmCh1C.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 335977,
+          "title": "Indiana Jones and the Dial of Destiny",
+          "poster": "https://image.tmdb.org/t/p/w300/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 414906,
+          "title": "The Batman",
+          "poster": "https://image.tmdb.org/t/p/w300/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+          "type": "movie"
+        }
+      ],
+      "images": {
+        "backdrop": "https://www.ekkofilm.dk/media/dyn/trailer/generated/tmpwmeoyaar_1200x630.png",
+        "poster": "https://image.tmdb.org/t/p/w500/4jxsYzaVAR9nfAv2Zm7MVv4mO7F.jpg",
+        "logo": "https://images-0.rakuten.tv/storage/global-movie/translation/title-treatment/a010a699-c8c6-49a8-83b5-3f027459175a-width410-quality90.png"
+      }
+    }
+  }

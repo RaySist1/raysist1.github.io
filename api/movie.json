@@ -1,0 +1,1267 @@
+{
+    "success": true,
+    "data": {
+      "hero": {
+        "id": 933260,
+        "type": "movie",
+        "title": "The Substance",
+        "description": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+        "images": {
+          "logo": "https://image.tmdb.org/t/p/w500/yXMt7AkV2W5sZsq8DtFZaBUupZS.png",
+          "backdrop": "https://image.tmdb.org/t/p/original/7h6TqPB3ESmjuVbxCxAeB1c9OB1.jpg"
+        }
+      },
+      "collections": [
+        {
+          "title": "Populære film denne uge",
+          "items": [
+            {
+              "id": 933260,
+              "title": "The Substance",
+              "poster": "https://image.tmdb.org/t/p/w300/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1184918,
+              "title": "The Wild Robot",
+              "poster": "https://image.tmdb.org/t/p/w300/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 845781,
+              "title": "Red One",
+              "poster": "https://image.tmdb.org/t/p/w300/5bWEIkaZ0cbocjYOzaDbDDtty3z.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 533535,
+              "title": "Deadpool & Wolverine",
+              "poster": "https://image.tmdb.org/t/p/w300/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 889737,
+              "title": "Joker: Folie à Deux",
+              "poster": "https://image.tmdb.org/t/p/w300/if8QiqCI7WAGImKcJCfzp6VTyKA.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1034541,
+              "title": "Terrifier 3",
+              "poster": "https://image.tmdb.org/t/p/w300/63xYQj1BwRFielxsBDXvHIJyXVm.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 912649,
+              "title": "Venom: The Last Dance",
+              "poster": "https://image.tmdb.org/t/p/w300/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 945961,
+              "title": "Alien: Romulus",
+              "poster": "https://image.tmdb.org/t/p/w300/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1118031,
+              "title": "Apocalypse Z: The Beginning of the End",
+              "poster": "https://image.tmdb.org/t/p/w300/wIGJnIFQlESkC2rLpfA8EDHqk4g.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1244492,
+              "title": "Look Back",
+              "poster": "https://image.tmdb.org/t/p/w300/AgBNLcHFEXCRFZuKv0H8RWMxNAJ.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 698687,
+              "title": "Transformers One",
+              "poster": "https://image.tmdb.org/t/p/w300/iHPIBzrjJHbXeY9y7VVbEVNt7LW.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1084736,
+              "title": "The Count of Monte-Cristo",
+              "poster": "https://image.tmdb.org/t/p/w300/zw4kV7npGtaqvUxvJE9IdqdFsNc.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 947891,
+              "title": "My Old Ass",
+              "poster": "https://image.tmdb.org/t/p/w300/yUs4Sw9AyTg2sA1qWBkNpD2mGSj.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 558449,
+              "title": "Gladiator II",
+              "poster": "https://image.tmdb.org/t/p/w300/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1064213,
+              "title": "Anora",
+              "poster": "https://image.tmdb.org/t/p/w300/xXz6ScxPlLRzL3MtzceNY52Neuq.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 822119,
+              "title": "Captain America: Brave New World",
+              "poster": "https://image.tmdb.org/t/p/w300/4YFyYcUPfrbpj6VpgWh7xoUnwLA.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1182047,
+              "title": "The Apprentice",
+              "poster": "https://image.tmdb.org/t/p/w300/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1226578,
+              "title": "Longlegs",
+              "poster": "https://image.tmdb.org/t/p/w300/5aj8vVGFwGVbQQs26ywhg4Zxk2L.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1104171,
+              "title": "Meet Me Next Christmas",
+              "poster": "https://image.tmdb.org/t/p/w300/tPRH0Rm00esNefnI1ZxQqTTIpzJ.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 989662,
+              "title": "A Different Man",
+              "poster": "https://image.tmdb.org/t/p/w300/lZZKTEvo92u1J5pm7QoEA5yN3du.jpg",
+              "type": "movie"
+            }
+          ]
+        },
+        {
+          "title": "Populære film",
+          "items": [
+            {
+              "id": 912649,
+              "title": "Venom: The Last Dance",
+              "poster": "https://image.tmdb.org/t/p/w300/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1034541,
+              "title": "Terrifier 3",
+              "poster": "https://image.tmdb.org/t/p/w300/63xYQj1BwRFielxsBDXvHIJyXVm.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1184918,
+              "title": "The Wild Robot",
+              "poster": "https://image.tmdb.org/t/p/w300/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 933260,
+              "title": "The Substance",
+              "poster": "https://image.tmdb.org/t/p/w300/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1118031,
+              "title": "Apocalypse Z: The Beginning of the End",
+              "poster": "https://image.tmdb.org/t/p/w300/wIGJnIFQlESkC2rLpfA8EDHqk4g.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 698687,
+              "title": "Transformers One",
+              "poster": "https://image.tmdb.org/t/p/w300/iHPIBzrjJHbXeY9y7VVbEVNt7LW.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 533535,
+              "title": "Deadpool & Wolverine",
+              "poster": "https://image.tmdb.org/t/p/w300/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1051896,
+              "title": "Arcadian",
+              "poster": "https://image.tmdb.org/t/p/w300/spWV1eRzlDxvai8LbxwAWR0Vst4.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 889737,
+              "title": "Joker: Folie à Deux",
+              "poster": "https://image.tmdb.org/t/p/w300/if8QiqCI7WAGImKcJCfzp6VTyKA.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1084736,
+              "title": "The Count of Monte-Cristo",
+              "poster": "https://image.tmdb.org/t/p/w300/zw4kV7npGtaqvUxvJE9IdqdFsNc.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 945961,
+              "title": "Alien: Romulus",
+              "poster": "https://image.tmdb.org/t/p/w300/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 335983,
+              "title": "Venom",
+              "poster": "https://image.tmdb.org/t/p/w300/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 845781,
+              "title": "Red One",
+              "poster": "https://image.tmdb.org/t/p/w300/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 580489,
+              "title": "Venom: Let There Be Carnage",
+              "poster": "https://image.tmdb.org/t/p/w300/1MJNcPZy46hIy2CmSqOeru0yr5C.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 179387,
+              "title": "Heavenly Touch",
+              "poster": "https://image.tmdb.org/t/p/w300/ory8WuAqznTE7lfopTSymHpop2t.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1022789,
+              "title": "Inside Out 2",
+              "poster": "https://image.tmdb.org/t/p/w300/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 519182,
+              "title": "Despicable Me 4",
+              "poster": "https://image.tmdb.org/t/p/w300/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1196470,
+              "title": "Survive",
+              "poster": "https://image.tmdb.org/t/p/w300/7fR3KxswtY8OHHZuOUB9td58CRX.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 976734,
+              "title": "Canary Black",
+              "poster": "https://image.tmdb.org/t/p/w300/hhiR6uUbTYYvKoACkdAIQPS5c6f.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 420634,
+              "title": "Terrifier",
+              "poster": "https://image.tmdb.org/t/p/w300/sFaPj5UyIAsiRuIgVl60pCYUzmR.jpg",
+              "type": "movie"
+            }
+          ]
+        },
+        {
+          "title": "Højest bedømte film",
+          "items": [
+            {
+              "id": 278,
+              "title": "The Shawshank Redemption",
+              "poster": "https://image.tmdb.org/t/p/w300/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 238,
+              "title": "The Godfather",
+              "poster": "https://image.tmdb.org/t/p/w300/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 240,
+              "title": "The Godfather Part II",
+              "poster": "https://image.tmdb.org/t/p/w300/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 424,
+              "title": "Schindler's List",
+              "poster": "https://image.tmdb.org/t/p/w300/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 389,
+              "title": "12 Angry Men",
+              "poster": "https://image.tmdb.org/t/p/w300/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 129,
+              "title": "Spirited Away",
+              "poster": "https://image.tmdb.org/t/p/w300/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 19404,
+              "title": "Dilwale Dulhania Le Jayenge",
+              "poster": "https://image.tmdb.org/t/p/w300/lfRkUr7DYdHldAqi3PwdQGBRBPM.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1184918,
+              "title": "The Wild Robot",
+              "poster": "https://image.tmdb.org/t/p/w300/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 155,
+              "title": "The Dark Knight",
+              "poster": "https://image.tmdb.org/t/p/w300/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 497,
+              "title": "The Green Mile",
+              "poster": "https://image.tmdb.org/t/p/w300/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 496243,
+              "title": "Parasite",
+              "poster": "https://image.tmdb.org/t/p/w300/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 680,
+              "title": "Pulp Fiction",
+              "poster": "https://image.tmdb.org/t/p/w300/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 372058,
+              "title": "Your Name.",
+              "poster": "https://image.tmdb.org/t/p/w300/vfJFJPepRKapMd5G2ro7klIRysq.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 122,
+              "title": "The Lord of the Rings: The Return of the King",
+              "poster": "https://image.tmdb.org/t/p/w300/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 13,
+              "title": "Forrest Gump",
+              "poster": "https://image.tmdb.org/t/p/w300/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 429,
+              "title": "The Good, the Bad and the Ugly",
+              "poster": "https://image.tmdb.org/t/p/w300/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 346,
+              "title": "Seven Samurai",
+              "poster": "https://image.tmdb.org/t/p/w300/iAq0sq42vKTLneVGqHn1D4GzgrM.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 769,
+              "title": "GoodFellas",
+              "poster": "https://image.tmdb.org/t/p/w300/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 12477,
+              "title": "Grave of the Fireflies",
+              "poster": "https://image.tmdb.org/t/p/w300/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 11216,
+              "title": "Cinema Paradiso",
+              "poster": "https://image.tmdb.org/t/p/w300/gCI2AeMV4IHSewhJkzsur5MEp6R.jpg",
+              "type": "movie"
+            }
+          ]
+        },
+        {
+          "title": "Kommende film",
+          "items": [
+            {
+              "id": 1034541,
+              "title": "Terrifier 3",
+              "poster": "https://image.tmdb.org/t/p/w300/63xYQj1BwRFielxsBDXvHIJyXVm.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 933260,
+              "title": "The Substance",
+              "poster": "https://image.tmdb.org/t/p/w300/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1084736,
+              "title": "The Count of Monte-Cristo",
+              "poster": "https://image.tmdb.org/t/p/w300/zw4kV7npGtaqvUxvJE9IdqdFsNc.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 845781,
+              "title": "Red One",
+              "poster": "https://image.tmdb.org/t/p/w300/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 976734,
+              "title": "Canary Black",
+              "poster": "https://image.tmdb.org/t/p/w300/hhiR6uUbTYYvKoACkdAIQPS5c6f.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1159311,
+              "title": "My Hero Academia: You're Next",
+              "poster": "https://image.tmdb.org/t/p/w300/8rdB1wkheEMMqcY8qLAKjCMPcnZ.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 558449,
+              "title": "Gladiator II",
+              "poster": "https://image.tmdb.org/t/p/w300/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 978796,
+              "title": "Bagman",
+              "poster": "https://image.tmdb.org/t/p/w300/hzrvol8K2VWm2BsDTwb8YvRMzIH.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 823219,
+              "title": "Flow",
+              "poster": "https://image.tmdb.org/t/p/w300/dzDMewC0Hwv01SROiWgKOi4iOc1.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1241982,
+              "title": "Moana 2",
+              "poster": "https://image.tmdb.org/t/p/w300/yh64qw9mgXBvlaWDi7Q9tpUBAvH.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1047373,
+              "title": "The Silent Hour",
+              "poster": "https://image.tmdb.org/t/p/w300/j736cRzBtEPCm0nHnpRN1prqiqj.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 814889,
+              "title": "Never Let Go",
+              "poster": "https://image.tmdb.org/t/p/w300/3EpZ2ksjijmdr8BhISP03PYzNFW.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1064028,
+              "title": "Subservience",
+              "poster": "https://image.tmdb.org/t/p/w300/gBenxR01Uy0Ev9RTIw6dVBPoyQU.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1064213,
+              "title": "Anora",
+              "poster": "https://image.tmdb.org/t/p/w300/xXz6ScxPlLRzL3MtzceNY52Neuq.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 402431,
+              "title": "Wicked",
+              "poster": "https://image.tmdb.org/t/p/w300/77I0pl0M83DjfEIvt4twlZSpAmg.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1100099,
+              "title": "We Live in Time",
+              "poster": "https://image.tmdb.org/t/p/w300/bZU0YDWUYuaufxfJNYNitiESD3s.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1014505,
+              "title": "OVERLORD: The Sacred Kingdom",
+              "poster": "https://image.tmdb.org/t/p/w300/jEvytxNa5mfW7VAUmDWsZtIdATc.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1182047,
+              "title": "The Apprentice",
+              "poster": "https://image.tmdb.org/t/p/w300/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 832964,
+              "title": "Lee",
+              "poster": "https://image.tmdb.org/t/p/w300/zdNWyuim8gpJHe1LtKaDrs43dWz.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 516729,
+              "title": "Paddington in Peru",
+              "poster": "https://image.tmdb.org/t/p/w300/1ffZAucqfvQu36x1C49XfOdjuOG.jpg",
+              "type": "movie"
+            }
+          ]
+        },
+        {
+          "title": "Animefilm",
+          "items": [
+            {
+              "id": 1159311,
+              "title": "My Hero Academia: You're Next",
+              "poster": "https://image.tmdb.org/t/p/w300/8rdB1wkheEMMqcY8qLAKjCMPcnZ.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 916192,
+              "title": "The Tunnel to Summer, the Exit of Goodbyes",
+              "poster": "https://image.tmdb.org/t/p/w300/5AGA6pbBKXZTI8k1c6odx30JuQR.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1014505,
+              "title": "OVERLORD: The Sacred Kingdom",
+              "poster": "https://image.tmdb.org/t/p/w300/jEvytxNa5mfW7VAUmDWsZtIdATc.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1012201,
+              "title": "HAIKYU!! The Dumpster Battle",
+              "poster": "https://image.tmdb.org/t/p/w300/ntRU0OA4etGGiMMmH1Yw0bnaMdW.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1104844,
+              "title": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+              "poster": "https://image.tmdb.org/t/p/w300/ae434jM5NG2kKX1rRkG5giMhpPI.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 303857,
+              "title": "Dragon Ball Z: Resurrection 'F'",
+              "poster": "https://image.tmdb.org/t/p/w300/soq3AxjALdBfdPAm8H7yuMmNL5Y.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1062807,
+              "title": "SPY x FAMILY CODE: White",
+              "poster": "https://image.tmdb.org/t/p/w300/xlIQf4y9eB14iYzNN142tROIWON.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 129,
+              "title": "Spirited Away",
+              "poster": "https://image.tmdb.org/t/p/w300/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 317442,
+              "title": "The Last: Naruto the Movie",
+              "poster": "https://image.tmdb.org/t/p/w300/bAQ8O5Uw6FedtlCbJTutenzPVKd.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 508883,
+              "title": "The Boy and the Heron",
+              "poster": "https://image.tmdb.org/t/p/w300/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 290271,
+              "title": "One Piece \"3D2Y\": Overcome Ace's Death! Luffy's Vow to his Friends",
+              "poster": "https://image.tmdb.org/t/p/w300/caUI7YlhVXykFWQ7Ul7RQ2wQRpv.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 10494,
+              "title": "Perfect Blue",
+              "poster": "https://image.tmdb.org/t/p/w300/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 372058,
+              "title": "Your Name.",
+              "poster": "https://image.tmdb.org/t/p/w300/vfJFJPepRKapMd5G2ro7klIRysq.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1263421,
+              "title": "Baki Hanma VS Kengan Ashura",
+              "poster": "https://image.tmdb.org/t/p/w300/etbHJxil0wHvYOCmibzFLsMcl2C.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 10515,
+              "title": "Castle in the Sky",
+              "poster": "https://image.tmdb.org/t/p/w300/41XxSsJc5OrulP0m7TrrUeO2hoz.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 4935,
+              "title": "Howl's Moving Castle",
+              "poster": "https://image.tmdb.org/t/p/w300/23hUJh7JdO23SpgUB5oiFDQk2wX.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 635302,
+              "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+              "poster": "https://image.tmdb.org/t/p/w300/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 118406,
+              "title": "Road to Ninja: Naruto the Movie",
+              "poster": "https://image.tmdb.org/t/p/w300/xLal6fXNtiJN6Zw6qk21xAtdOeN.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 126963,
+              "title": "Dragon Ball Z: Battle of Gods",
+              "poster": "https://image.tmdb.org/t/p/w300/nxZEdYcHMuD8SSuwusDnK9CD2H1.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 507411,
+              "title": "Natsume's Book of Friends: Ephemeral Bond",
+              "poster": "https://image.tmdb.org/t/p/w300/5LVV47JaRHa1OXrQv5l6XSyfW50.jpg",
+              "type": "movie"
+            }
+          ]
+        },
+        {
+          "title": "Gyserfilm",
+          "items": [
+            {
+              "id": 1034541,
+              "title": "Terrifier 3",
+              "poster": "https://image.tmdb.org/t/p/w300/63xYQj1BwRFielxsBDXvHIJyXVm.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 933260,
+              "title": "The Substance",
+              "poster": "https://image.tmdb.org/t/p/w300/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1118031,
+              "title": "Apocalypse Z: The Beginning of the End",
+              "poster": "https://image.tmdb.org/t/p/w300/wIGJnIFQlESkC2rLpfA8EDHqk4g.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1051896,
+              "title": "Arcadian",
+              "poster": "https://image.tmdb.org/t/p/w300/spWV1eRzlDxvai8LbxwAWR0Vst4.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 945961,
+              "title": "Alien: Romulus",
+              "poster": "https://image.tmdb.org/t/p/w300/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 420634,
+              "title": "Terrifier",
+              "poster": "https://image.tmdb.org/t/p/w300/sFaPj5UyIAsiRuIgVl60pCYUzmR.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 827931,
+              "title": "Time Cut",
+              "poster": "https://image.tmdb.org/t/p/w300/gzMFMmpJHOmOFKsAhSDac62Dyg2.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 663712,
+              "title": "Terrifier 2",
+              "poster": "https://image.tmdb.org/t/p/w300/8gLhu8UFPZfH2Hv11JhTZkb9CVl.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1287717,
+              "title": "Do Not Enter",
+              "poster": "https://image.tmdb.org/t/p/w300/1iPuEIcybEc9Y6aKJ8BGAnMadFX.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 917496,
+              "title": "Beetlejuice Beetlejuice",
+              "poster": "https://image.tmdb.org/t/p/w300/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1371727,
+              "title": "Sing: Thriller",
+              "poster": "https://image.tmdb.org/t/p/w300/i77OInTKcrnRlAozFOaB6D5mk15.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1063877,
+              "title": "Don't Move",
+              "poster": "https://image.tmdb.org/t/p/w300/cRDJxdnRb7ikKd6fVJTrGeaL34v.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1029235,
+              "title": "Azrael",
+              "poster": "https://image.tmdb.org/t/p/w300/qpdFKDvJS7oLKTcBLXOaMwUESbs.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1125510,
+              "title": "The Platform 2",
+              "poster": "https://image.tmdb.org/t/p/w300/hf94ySIzdP3KwHau9VSWh7b7Qu2.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 173705,
+              "title": "Female Teacher: In Front of the Students",
+              "poster": "https://image.tmdb.org/t/p/w300/ilMXOocCCwPWCcDLLa6M0ga8vWt.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1100782,
+              "title": "Smile 2",
+              "poster": "https://image.tmdb.org/t/p/w300/aE85MnPIsSoSs3978Noo16BRsKN.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 978796,
+              "title": "Bagman",
+              "poster": "https://image.tmdb.org/t/p/w300/hzrvol8K2VWm2BsDTwb8YvRMzIH.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 957452,
+              "title": "The Crow",
+              "poster": "https://image.tmdb.org/t/p/w300/58QT4cPJ2u2TqWZkterDq9q4yxQ.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 86328,
+              "title": "Terrifier",
+              "poster": "https://image.tmdb.org/t/p/w300/uP5k78WkCVrxrFp4AJflHbC61Ao.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 726139,
+              "title": "Project Silence",
+              "poster": "https://image.tmdb.org/t/p/w300/fttoFfKikQMwIoV3UVvlCvBhbUw.jpg",
+              "type": "movie"
+            }
+          ]
+        },
+        {
+          "title": "Dramafilm",
+          "items": [
+            {
+              "id": 933260,
+              "title": "The Substance",
+              "poster": "https://image.tmdb.org/t/p/w300/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1118031,
+              "title": "Apocalypse Z: The Beginning of the End",
+              "poster": "https://image.tmdb.org/t/p/w300/wIGJnIFQlESkC2rLpfA8EDHqk4g.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 889737,
+              "title": "Joker: Folie à Deux",
+              "poster": "https://image.tmdb.org/t/p/w300/if8QiqCI7WAGImKcJCfzp6VTyKA.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1084736,
+              "title": "The Count of Monte-Cristo",
+              "poster": "https://image.tmdb.org/t/p/w300/zw4kV7npGtaqvUxvJE9IdqdFsNc.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 179387,
+              "title": "Heavenly Touch",
+              "poster": "https://image.tmdb.org/t/p/w300/ory8WuAqznTE7lfopTSymHpop2t.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1022789,
+              "title": "Inside Out 2",
+              "poster": "https://image.tmdb.org/t/p/w300/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1010581,
+              "title": "My Fault",
+              "poster": "https://image.tmdb.org/t/p/w300/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 592695,
+              "title": "Pleasure",
+              "poster": "https://image.tmdb.org/t/p/w300/7Z2K08J0WantJHNa0vLTOmii41l.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 173705,
+              "title": "Female Teacher: In Front of the Students",
+              "poster": "https://image.tmdb.org/t/p/w300/ilMXOocCCwPWCcDLLa6M0ga8vWt.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1079091,
+              "title": "It Ends with Us",
+              "poster": "https://image.tmdb.org/t/p/w300/AjV6jFJ2YFIluYo4GQf13AA1tqu.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1149912,
+              "title": "Kelas Bintang - Hot Moms",
+              "poster": "https://image.tmdb.org/t/p/w300/7dBqZmErtrxN9ghOJoW6SimgDo1.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1214484,
+              "title": "Let Go",
+              "poster": "https://image.tmdb.org/t/p/w300/hRuo0CXc5XINxVnMIA2r5fjzqVD.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 991610,
+              "title": "Invasion",
+              "poster": "https://image.tmdb.org/t/p/w300/s2KE27j9cWDSJKYOg4KxXDwnoiv.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 238,
+              "title": "The Godfather",
+              "poster": "https://image.tmdb.org/t/p/w300/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 482600,
+              "title": "Japanese Mom",
+              "poster": "https://image.tmdb.org/t/p/w300/hq1EaYIqUNrPM3QFYAbnH2UHoX8.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 814889,
+              "title": "Never Let Go",
+              "poster": "https://image.tmdb.org/t/p/w300/3EpZ2ksjijmdr8BhISP03PYzNFW.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1075676,
+              "title": "Uprising",
+              "poster": "https://image.tmdb.org/t/p/w300/hg9OeaCRSpazrfqYyEFr6BDaZW8.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1357459,
+              "title": "Tatsulok: Tatlo Magkasalo",
+              "poster": "https://image.tmdb.org/t/p/w300/zcmPxGIBxxsGVyYuzNWPCWjlQ8X.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1160018,
+              "title": "Kill",
+              "poster": "https://image.tmdb.org/t/p/w300/m2zXTuNPkywdYLyWlVyJZW2QOJH.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1001311,
+              "title": "Under Paris",
+              "poster": "https://image.tmdb.org/t/p/w300/qZPLK5ktRKa3CL4sKRZtj8UlPYc.jpg",
+              "type": "movie"
+            }
+          ]
+        },
+        {
+          "title": "Krimifilm",
+          "items": [
+            {
+              "id": 889737,
+              "title": "Joker: Folie à Deux",
+              "poster": "https://image.tmdb.org/t/p/w300/if8QiqCI7WAGImKcJCfzp6VTyKA.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 976734,
+              "title": "Canary Black",
+              "poster": "https://image.tmdb.org/t/p/w300/hhiR6uUbTYYvKoACkdAIQPS5c6f.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 616446,
+              "title": "Brothers",
+              "poster": "https://image.tmdb.org/t/p/w300/Akweo95FGyDpucYVT81h0SbX8Ky.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 824003,
+              "title": "Diabolik - Who Are You?",
+              "poster": "https://image.tmdb.org/t/p/w300/1DAXwi4y941ryPoGbzUlFEEiPAo.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1151949,
+              "title": "The Shadow Strays",
+              "poster": "https://image.tmdb.org/t/p/w300/cfkcrKySRyJiIdLo6c6kNSyLFh7.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 238,
+              "title": "The Godfather",
+              "poster": "https://image.tmdb.org/t/p/w300/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 783110,
+              "title": "Smugglers",
+              "poster": "https://image.tmdb.org/t/p/w300/j8Jx4vpBG258jPxd4o0kOLDwTvm.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1047373,
+              "title": "The Silent Hour",
+              "poster": "https://image.tmdb.org/t/p/w300/j736cRzBtEPCm0nHnpRN1prqiqj.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 7451,
+              "title": "xXx",
+              "poster": "https://image.tmdb.org/t/p/w300/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1147710,
+              "title": "Hijack 1971",
+              "poster": "https://image.tmdb.org/t/p/w300/68jNkFi61MQjrJEqj2up5wZ4w5R.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 507241,
+              "title": "The Killer's Game",
+              "poster": "https://image.tmdb.org/t/p/w300/4bKlTeOUr5AKrLky8mwWvlQqyVd.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1160018,
+              "title": "Kill",
+              "poster": "https://image.tmdb.org/t/p/w300/m2zXTuNPkywdYLyWlVyJZW2QOJH.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 414906,
+              "title": "The Batman",
+              "poster": "https://image.tmdb.org/t/p/w300/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 12153,
+              "title": "White Chicks",
+              "poster": "https://image.tmdb.org/t/p/w300/aHTUpo45qy9QYIOnVITGGqLoVcA.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 278,
+              "title": "The Shawshank Redemption",
+              "poster": "https://image.tmdb.org/t/p/w300/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1215162,
+              "title": "Kill 'em All 2",
+              "poster": "https://image.tmdb.org/t/p/w300/hgA5hN3NjNNSTXYOmAI6KNKOzbp.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 385687,
+              "title": "Fast X",
+              "poster": "https://image.tmdb.org/t/p/w300/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1210794,
+              "title": "Trouble",
+              "poster": "https://image.tmdb.org/t/p/w300/ildbg7ho14EHbt1fZWAkgqIyPqy.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 877817,
+              "title": "Wolfs",
+              "poster": "https://image.tmdb.org/t/p/w300/vOX1Zng472PC2KnS0B9nRfM8aaZ.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1337309,
+              "title": "Bangkok Breaking: Heaven and Hell",
+              "poster": "https://image.tmdb.org/t/p/w300/6VeDn4oIeUK4XwjWGWMb6qvMImQ.jpg",
+              "type": "movie"
+            }
+          ]
+        },
+        {
+          "title": "Actionfilm",
+          "items": [
+            {
+              "id": 912649,
+              "title": "Venom: The Last Dance",
+              "poster": "https://image.tmdb.org/t/p/w300/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1118031,
+              "title": "Apocalypse Z: The Beginning of the End",
+              "poster": "https://image.tmdb.org/t/p/w300/wIGJnIFQlESkC2rLpfA8EDHqk4g.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 533535,
+              "title": "Deadpool & Wolverine",
+              "poster": "https://image.tmdb.org/t/p/w300/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1051896,
+              "title": "Arcadian",
+              "poster": "https://image.tmdb.org/t/p/w300/spWV1eRzlDxvai8LbxwAWR0Vst4.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1084736,
+              "title": "The Count of Monte-Cristo",
+              "poster": "https://image.tmdb.org/t/p/w300/zw4kV7npGtaqvUxvJE9IdqdFsNc.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 335983,
+              "title": "Venom",
+              "poster": "https://image.tmdb.org/t/p/w300/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 845781,
+              "title": "Red One",
+              "poster": "https://image.tmdb.org/t/p/w300/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 580489,
+              "title": "Venom: Let There Be Carnage",
+              "poster": "https://image.tmdb.org/t/p/w300/1MJNcPZy46hIy2CmSqOeru0yr5C.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 519182,
+              "title": "Despicable Me 4",
+              "poster": "https://image.tmdb.org/t/p/w300/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1196470,
+              "title": "Survive",
+              "poster": "https://image.tmdb.org/t/p/w300/7fR3KxswtY8OHHZuOUB9td58CRX.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 976734,
+              "title": "Canary Black",
+              "poster": "https://image.tmdb.org/t/p/w300/hhiR6uUbTYYvKoACkdAIQPS5c6f.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1331375,
+              "title": "Dominique",
+              "poster": "https://image.tmdb.org/t/p/w300/29uKScAbQuKsMEdAn12a6BmvFn7.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1094974,
+              "title": "Take Cover",
+              "poster": "https://image.tmdb.org/t/p/w300/xNLiMNyFzKTL9PVIEulG55Hei8j.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1159311,
+              "title": "My Hero Academia: You're Next",
+              "poster": "https://image.tmdb.org/t/p/w300/8rdB1wkheEMMqcY8qLAKjCMPcnZ.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1029235,
+              "title": "Azrael",
+              "poster": "https://image.tmdb.org/t/p/w300/qpdFKDvJS7oLKTcBLXOaMwUESbs.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1011985,
+              "title": "Kung Fu Panda 4",
+              "poster": "https://image.tmdb.org/t/p/w300/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 573435,
+              "title": "Bad Boys: Ride or Die",
+              "poster": "https://image.tmdb.org/t/p/w300/oGythE98MYleE6mZlGs5oBGkux1.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 558449,
+              "title": "Gladiator II",
+              "poster": "https://image.tmdb.org/t/p/w300/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1116490,
+              "title": "Cash Out",
+              "poster": "https://image.tmdb.org/t/p/w300/xBJnIvRdL0nDHgvivr6EgBQizes.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 616446,
+              "title": "Brothers",
+              "poster": "https://image.tmdb.org/t/p/w300/Akweo95FGyDpucYVT81h0SbX8Ky.jpg",
+              "type": "movie"
+            }
+          ]
+        },
+        {
+          "title": "Mysteriefilm",
+          "items": [
+            {
+              "id": 1034541,
+              "title": "Terrifier 3",
+              "poster": "https://image.tmdb.org/t/p/w300/63xYQj1BwRFielxsBDXvHIJyXVm.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 173705,
+              "title": "Female Teacher: In Front of the Students",
+              "poster": "https://image.tmdb.org/t/p/w300/ilMXOocCCwPWCcDLLa6M0ga8vWt.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1100782,
+              "title": "Smile 2",
+              "poster": "https://image.tmdb.org/t/p/w300/aE85MnPIsSoSs3978Noo16BRsKN.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1249532,
+              "title": "Rippy",
+              "poster": "https://image.tmdb.org/t/p/w300/cZ5U4Ae74g29E02JR5oR98RQhiR.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 414906,
+              "title": "The Batman",
+              "poster": "https://image.tmdb.org/t/p/w300/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 931944,
+              "title": "The Devil's Bath",
+              "poster": "https://image.tmdb.org/t/p/w300/ycoXsJomPmPjtCfNweM0UWiTkPY.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1012148,
+              "title": "Chapel",
+              "poster": "https://image.tmdb.org/t/p/w300/94sIggRUBioP19m3vJQfV3lq6Z6.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 840705,
+              "title": "Blink Twice",
+              "poster": "https://image.tmdb.org/t/p/w300/lZGOK0I2DJSRlEPNOAFTSNxSjDD.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 198663,
+              "title": "The Maze Runner",
+              "poster": "https://image.tmdb.org/t/p/w300/ode14q7WtDugFDp78fo9lCsmay9.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1148172,
+              "title": "Do Patti",
+              "poster": "https://image.tmdb.org/t/p/w300/cRL004ik3BfI1lNWAxIJyOyMJsY.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1041613,
+              "title": "Immaculate",
+              "poster": "https://image.tmdb.org/t/p/w300/fdZpvODTX5wwkD0ikZNaClE4AoW.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 41446,
+              "title": "Scream 4",
+              "poster": "https://image.tmdb.org/t/p/w300/tcrI37K98TVopLbcZBa55mWhLT1.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1328814,
+              "title": "Amityville: Where the Echo Lives",
+              "poster": "https://image.tmdb.org/t/p/w300/jqhAgE9ceTX8f9xTcqBlmXSuMG3.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 493922,
+              "title": "Hereditary",
+              "poster": "https://image.tmdb.org/t/p/w300/p9fmuz2Oj3HtEJEqbIwkFGUhVXD.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 291805,
+              "title": "Now You See Me 2",
+              "poster": "https://image.tmdb.org/t/p/w300/A81kDB6a1K86YLlcOtZB27jriJh.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 249397,
+              "title": "Nymphomaniac: Vol. II",
+              "poster": "https://image.tmdb.org/t/p/w300/fYLbO4UpumgNHVnsyDQkXG87Q1k.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 882598,
+              "title": "Smile",
+              "poster": "https://image.tmdb.org/t/p/w300/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 210577,
+              "title": "Gone Girl",
+              "poster": "https://image.tmdb.org/t/p/w300/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 1216191,
+              "title": "Oddity",
+              "poster": "https://image.tmdb.org/t/p/w300/3Z9c1tbUhP0QruRjczPHnbx3U2D.jpg",
+              "type": "movie"
+            },
+            {
+              "id": 4232,
+              "title": "Scream",
+              "poster": "https://image.tmdb.org/t/p/w300/aXAByjBN8UhaYvotqRCwa5MsMGu.jpg",
+              "type": "movie"
+            }
+          ]
+        }
+      ]
+    }
+  }

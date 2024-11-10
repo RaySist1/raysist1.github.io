@@ -1,0 +1,229 @@
+/* General styling and dark theme with a full-screen responsive layout */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  /* Make the video player responsive and fill most of the screen */
+  .video-player {
+    position: absolute;
+    width: 90vw;  /* 90% of the viewport width */
+    height: 50vw;  /* 50% of the viewport width (16:9 aspect ratio) */
+    max-width: 1200px;  /* Optional max-width to prevent it from becoming too large */
+    max-height: 675px;  /* Optional max-height for 16:9 aspect ratio */
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: #1c1c1c;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.7);
+  }
+  
+  /* Make the video fill the player container */
+  .video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;  /* Ensures video covers the whole container */
+    border-radius: 8px;
+  }
+  
+  /* Controls overlay */
+  .controls-overlay {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.8), transparent);
+    padding: 10px 15px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .video-player:hover .controls-overlay {
+    opacity: 1;
+  }
+  
+  /* Control bar */
+  .controls {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    color: #b3b3b3;
+    width: 100%;
+  }
+  
+  /* Control buttons */
+  .control-btn {
+    background: none;
+    border: none;
+    font-size: 20px;
+    color: #b3b3b3;
+    cursor: pointer;
+    transition: color 0.3s ease;
+  }
+  
+  .control-btn:hover {
+    color: #b91d1d;  /* Neon green color on hover */
+  }
+  
+  /* Seek bar styling */
+  .seek-bar {
+    flex: 1;
+    -webkit-appearance: none;
+    height: 5px;
+    border-radius: 5px;
+    background: #333;
+    outline: none;
+  }
+  
+  .seek-bar::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    height: 10px;
+    width: 10px;
+    background-color: #b91d1d;
+    border-radius: 50%;
+  }
+  
+  /* Time displays */
+  .time-display,
+  .time-divider {
+    color: #b3b3b3;
+    font-size: 14px;
+  }
+  
+  .time-divider {
+    margin: 0 5px;
+  }
+  
+  /* Volume slider container */
+  .volume-control {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+  
+  .volume-slider {
+    width: 80px;
+    appearance: none;
+    height: 5px;
+    border-radius: 5px;
+    background: #333;
+    outline: none;
+    cursor: pointer;
+    transition: width 0.2s ease;
+    opacity: 0;
+    visibility: hidden;
+  }
+  
+  .volume-slider:hover,
+  .volume-control:hover .volume-slider {
+    opacity: 1;
+    visibility: visible;
+    width: 100px;  /* Expanded width on hover */
+  }
+  
+  .volume-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    height: 10px;
+    width: 10px;
+    background-color: #b91d1d;
+    border-radius: 50%;
+  }
+  
+    /* Title styling */
+.player-title2 {
+    font-size: 15px;
+    color: #b91d1d; /* Neon green color to match player theme */
+    text-align: center;
+    margin-left: 0px;
+    margin-bottom: 800px;
+    font-family: Arial, sans-serif;
+    letter-spacing: 1px;
+    text-shadow: 0 0 5px rgba(185, 29, 29, 0.5), 0 0 10px rgba(185, 29, 29, 0.7);
+  }
+
+  .player-title {
+    font-size: 15px;
+    color: #b91d1d; /* Neon green color to match player theme */
+    text-align: center;
+    margin-right: 50px;
+    margin-bottom: 800px;
+    font-family: Arial, sans-serif;
+    letter-spacing: 1px;
+    text-shadow: 0 0 5px rgba(185, 29, 29, 0.5), 0 0 10px rgba(185, 29, 29, 0.7);
+  }
+
+  .player-title3 {
+    font-size: 15px;
+    color: #b91d1d; /* Neon green color to match player theme */
+    text-align: center;
+    margin-left: 50px;
+    margin-bottom: 800px;
+    font-family: Arial, sans-serif;
+    letter-spacing: 1px;
+    text-shadow: 0 0 5px rgba(185, 29, 29, 0.5), 0 0 10px rgba(185, 29, 29, 0.7);
+  }
+  
+  /* Help Modal Styling */
+.help-modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    z-index: 10;
+  }
+  
+  .help-content {
+    background: #333;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    max-width: 300px;
+  }
+  
+  .help-content h2 {
+    color: #b91d1d;
+    margin-bottom: 10px;
+  }
+  
+  .help-content p {
+    font-size: 16px;
+    margin: 5px 0;
+  }
+
+  /* Invisible hot zones for double-tap controls */
+.hot-zone {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 33.3%;
+    height: 100%;
+    cursor: pointer;
+  }
+  
+  .left-zone {
+    left: 0;
+  }
+  
+  .center-zone {
+    left: 33.3%;
+  }
+  
+  .right-zone {
+    right: 0;
+  }
+  

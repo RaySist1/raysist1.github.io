@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Series.tech Filmafspiller</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <div class="player-title">(Denne server bliver automatisk uploaded til, jeg styrer ikke hvilke episoder og sæsoner som ligger klar)</div>
+  <div class="player-title2">| Klassen - S1 - 35 |</div>
+  <div class="player-title3">| Cornelius' hemmelighed |</div>
+
+  <div class="video-player">
+    <video id="video" src="https://firebasestorage.googleapis.com/v0/b/series-tech.appspot.com/o/S1%2F35.%20Cornelius'%20hemmelighed.mp4?alt=media&token=fa18b92e-acf6-4972-9713-6b47c09ac4f7" class="video" playsinline></video>
+
+    <!-- Overlay-zoner for mobil dobbelt-tap kontrol -->
+    <div class="hot-zone left-zone" data-action="rewind"></div>
+    <div class="hot-zone center-zone" data-action="fullscreen"></div>
+    <div class="hot-zone right-zone" data-action="forward"></div>
+
+    <!-- Overlay og Kontroller -->
+    <div class="controls-overlay">
+      <div class="controls">
+        <button id="playPause" class="control-btn"><i class="icon">▶</i></button>
+        <div class="volume-control">
+          <button id="muteUnmute" class="control-btn"><i class="icon">🔈</i></button>
+          <input type="range" id="volumeSlider" class="volume-slider" value="100" max="100">
+        </div>
+        <input type="range" id="seekBar" class="seek-bar" value="0">
+        <span id="currentTime" class="time-display">0:00</span>
+        <span class="time-divider">/</span>
+        <span id="duration" class="time-display">0:00</span>
+        <button id="helpButton" class="control-btn"><i class="icon">?</i></button>
+      </div>
+    </div>
+    
+    <!-- Hjælp Modal -->
+    <div id="helpModal" class="help-modal">
+      <div class="help-content">
+        <h2>Kontrolvejledning</h2>
+        <p><strong>Space</strong> - Pause/Play</p>
+        <p><strong>Venstre Pil</strong> - Spol 10 sekunder tilbage</p>
+        <p><strong>Højre Pil</strong> - Spol 10 sekunder frem</p>
+        <p><strong>F</strong> - Skift til fuld skærm</p>
+        <p><strong>Dobbelt-tap Venstre</strong> - Spol 10 sekunder tilbage</p>
+        <p><strong>Dobbelt-tap Højre</strong> - Spol 10 sekunder frem</p>
+        <p><strong>Dobbelt-tap Center</strong> - Skift til fuld skærm</p>
+        <button id="closeHelp" class="control-btn">Luk</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
