@@ -1037,130 +1037,171 @@
           ]
         },
         {
-          "title": "Serier i gang",
-          "items": [
-            {
-              "id": 94722,
-              "title": "Tagesschau",
-              "poster": "https://image.tmdb.org/t/p/w300/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-              "type": "series"
-            },
-            {
-              "id": 257064,
-              "title": "Volta por Cima",
-              "poster": "https://image.tmdb.org/t/p/w300/nyN8R0P1Hqwq7ksJz4O2BIAUd4W.jpg",
-              "type": "series"
-            },
-            {
-              "id": 81329,
-              "title": "Chronicles of the Sun",
-              "poster": "https://image.tmdb.org/t/p/w300/t6jVlbPMtZOJoAOfeoR4yQmnjXM.jpg",
-              "type": "series"
-            },
-            {
-              "id": 237019,
-              "title": "Big Brother: Live Stream",
-              "poster": "https://image.tmdb.org/t/p/w300/me84uR1iE9SoSl6tZo1iO9OYKIt.jpg",
-              "type": "series"
-            },
-            {
-              "id": 237478,
-              "title": "Crazy About You",
-              "poster": "https://image.tmdb.org/t/p/w300/xq1X6H8pupwx0jeZpu4Piq0V5uL.jpg",
-              "type": "series"
-            },
-            {
-              "id": 218145,
-              "title": "Mom for rent",
-              "poster": "https://image.tmdb.org/t/p/w300/fH7PP2Rkdlo414IHvZABBHhtoqd.jpg",
-              "type": "series"
-            },
-            {
-              "id": 112470,
-              "title": "Ici tout commence",
-              "poster": "https://image.tmdb.org/t/p/w300/yuTHx38jpogXovMhqNatvozigMJ.jpg",
-              "type": "series"
-            },
-            {
-              "id": 243084,
-              "title": "Love Game in Eastern Fantasy",
-              "poster": "https://image.tmdb.org/t/p/w300/pv1ulQkz5w0s9EH8dV3mjW6SABf.jpg",
-              "type": "series"
-            },
-            {
-              "id": 242722,
-              "title": "Shrimad Ramayan",
-              "poster": "https://image.tmdb.org/t/p/w300/aCDK83ykQYnQGFOTfiLjnoqXv1b.jpg",
-              "type": "series"
-            },
-            {
-              "id": 274136,
-              "title": "Stardance XIII ...kolem dokola",
-              "poster": "https://image.tmdb.org/t/p/w300/iJPk8DSr2NVpfeFxembWxROqQNW.jpg",
-              "type": "series"
-            },
-            {
-              "id": 4682,
-              "title": "Strictly Come Dancing: It Takes Two",
-              "poster": "https://image.tmdb.org/t/p/w300/1UOKLsJ3bopZHg6ntRfmO4C5Gcm.jpg",
-              "type": "series"
-            },
-            {
-              "id": 248890,
-              "title": "Ready Steady Cook South Africa",
-              "poster": "https://image.tmdb.org/t/p/w300/30xX4IMbgnMbQwo76xM4BOSokZO.jpg",
-              "type": "series"
-            },
-            {
-              "id": 249010,
-              "title": "Kelders van Geheime",
-              "poster": "https://image.tmdb.org/t/p/w300/vf1I0G5jICTstI1EXxb9Oqq80TU.jpg",
-              "type": "series"
-            },
-            {
-              "id": 36361,
-              "title": "Ulice",
-              "poster": "https://image.tmdb.org/t/p/w300/gFEHva8Csx18hMGJJZ6gi4sFSKR.jpg",
-              "type": "series"
-            },
-            {
-              "id": 274260,
-              "title": "Romance in the Alley",
-              "poster": "https://image.tmdb.org/t/p/w300/kKEGxNzMDkF09lniLvLSRh7Vuff.jpg",
-              "type": "series"
-            },
-            {
-              "id": 124364,
-              "title": "FROM",
-              "poster": "https://image.tmdb.org/t/p/w300/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg",
-              "type": "series"
-            },
-            {
-              "id": 256429,
-              "title": "Pamilya Sagrado",
-              "poster": "https://image.tmdb.org/t/p/w300/hlRhstt3Du57qm4A30w7RkHqEXg.jpg",
-              "type": "series"
-            },
-            {
-              "id": 255150,
-              "title": "Pituca Sin Lucas",
-              "poster": "https://image.tmdb.org/t/p/w300/cjqJqODyUbul2GZL7ti2B5SVv7I.jpg",
-              "type": "series"
-            },
-            {
-              "id": 206559,
-              "title": "Binnelanders",
-              "poster": "https://image.tmdb.org/t/p/w300/3bzECfllho8PphdYujLUIuhncJD.jpg",
-              "type": "series"
-            },
-            {
-              "id": 256121,
-              "title": "Lavender Fields",
-              "poster": "https://image.tmdb.org/t/p/w300/lphvsr062SlxWM6XegsV2dLGaiE.jpg",
-              "type": "series"
-            }
-          ]
-        }
-      ]
+        "title": "Serier i gang",
+        "items": [
+          {
+            "id": 94722,
+            "title": "Tagesschau",
+            "poster": "https://image.tmdb.org/t/p/w300/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+            "type": "series"
+          },
+          {
+            "id": 257064,
+            "title": "Volta por Cima",
+            "poster": "https://image.tmdb.org/t/p/w300/nyN8R0P1Hqwq7ksJz4O2BIAUd4W.jpg",
+            "type": "series"
+          },
+          {
+            "id": 81329,
+            "title": "Chronicles of the Sun",
+            "poster": "https://image.tmdb.org/t/p/w300/t6jVlbPMtZOJoAOfeoR4yQmnjXM.jpg",
+            "type": "series"
+          },
+          {
+            "id": 237019,
+            "title": "Big Brother: Live Stream",
+            "poster": "https://image.tmdb.org/t/p/w300/me84uR1iE9SoSl6tZo1iO9OYKIt.jpg",
+            "type": "series"
+          },
+          {
+            "id": 237478,
+            "title": "Crazy About You",
+            "poster": "https://image.tmdb.org/t/p/w300/xq1X6H8pupwx0jeZpu4Piq0V5uL.jpg",
+            "type": "series"
+          },
+          {
+            "id": 218145,
+            "title": "Mom for rent",
+            "poster": "https://image.tmdb.org/t/p/w300/fH7PP2Rkdlo414IHvZABBHhtoqd.jpg",
+            "type": "series"
+          },
+          {
+            "id": 112470,
+            "title": "Ici tout commence",
+            "poster": "https://image.tmdb.org/t/p/w300/yuTHx38jpogXovMhqNatvozigMJ.jpg",
+            "type": "series"
+          },
+          {
+            "id": 243084,
+            "title": "Love Game in Eastern Fantasy",
+            "poster": "https://image.tmdb.org/t/p/w300/pv1ulQkz5w0s9EH8dV3mjW6SABf.jpg",
+            "type": "series"
+          },
+          {
+            "id": 242722,
+            "title": "Shrimad Ramayan",
+            "poster": "https://image.tmdb.org/t/p/w300/aCDK83ykQYnQGFOTfiLjnoqXv1b.jpg",
+            "type": "series"
+          },
+          {
+            "id": 274136,
+            "title": "Stardance XIII ...kolem dokola",
+            "poster": "https://image.tmdb.org/t/p/w300/iJPk8DSr2NVpfeFxembWxROqQNW.jpg",
+            "type": "series"
+          },
+          {
+            "id": 4682,
+            "title": "Strictly Come Dancing: It Takes Two",
+            "poster": "https://image.tmdb.org/t/p/w300/1UOKLsJ3bopZHg6ntRfmO4C5Gcm.jpg",
+            "type": "series"
+          },
+          {
+            "id": 248890,
+            "title": "Ready Steady Cook South Africa",
+            "poster": "https://image.tmdb.org/t/p/w300/30xX4IMbgnMbQwo76xM4BOSokZO.jpg",
+            "type": "series"
+          },
+          {
+            "id": 249010,
+            "title": "Kelders van Geheime",
+            "poster": "https://image.tmdb.org/t/p/w300/vf1I0G5jICTstI1EXxb9Oqq80TU.jpg",
+            "type": "series"
+          },
+          {
+            "id": 36361,
+            "title": "Ulice",
+            "poster": "https://image.tmdb.org/t/p/w300/gFEHva8Csx18hMGJJZ6gi4sFSKR.jpg",
+            "type": "series"
+          },
+          {
+            "id": 274260,
+            "title": "Romance in the Alley",
+            "poster": "https://image.tmdb.org/t/p/w300/kKEGxNzMDkF09lniLvLSRh7Vuff.jpg",
+            "type": "series"
+          },
+          {
+            "id": 124364,
+            "title": "FROM",
+            "poster": "https://image.tmdb.org/t/p/w300/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg",
+            "type": "series"
+          },
+          {
+            "id": 256429,
+            "title": "Pamilya Sagrado",
+            "poster": "https://image.tmdb.org/t/p/w300/hlRhstt3Du57qm4A30w7RkHqEXg.jpg",
+            "type": "series"
+          },
+          {
+            "id": 255150,
+            "title": "Pituca Sin Lucas",
+            "poster": "https://image.tmdb.org/t/p/w300/cjqJqODyUbul2GZL7ti2B5SVv7I.jpg",
+            "type": "series"
+          },
+          {
+            "id": 206559,
+            "title": "Binnelanders",
+            "poster": "https://image.tmdb.org/t/p/w300/3bzECfllho8PphdYujLUIuhncJD.jpg",
+            "type": "series"
+          },
+          {
+            "id": 256121,
+            "title": "Lavender Fields",
+            "poster": "https://image.tmdb.org/t/p/w300/lphvsr062SlxWM6XegsV2dLGaiE.jpg",
+            "type": "series"
+          }
+        ]
+      },
+      {
+            "title": "RaySist's Favoritter",
+            "items": [
+              {
+                "id": 2316,
+                "title": "The Office",
+                "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+                "type": "series"
+              },
+              {
+                "id": 1100,
+                "title": "How I Met Your Mother",
+                "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+                "type": "series"
+              },
+              {
+                "id": 48891,
+                "title": "Brooklyn Nine-Nine",
+                "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgRMSOt7a1b8qyQR68vUixJPang.jpg",
+                "type": "series"
+              },
+              {
+                "id": 46952,
+                "title": "The Blacklist",
+                "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r935SMphvXppx5bJjbIBNx02fwc.jpg",
+                "type": "series"
+              },
+              {
+                "id": 3796,
+                "title": "Trailer Park Boys",
+                "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIcIwVTYcZnW1BDzexGfFO7KmX1.jpg",
+                "type": "series"
+              },
+              {
+                "id": 1396,
+                "title": "Breaking Bad",
+                "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+                "type": "series"
+              }
+            ]
+          }
+        ]
+      }
     }
-  }

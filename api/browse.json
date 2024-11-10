@@ -1160,7 +1160,48 @@
             "type": "series"
           }
         ]
+      },
+      {
+            "title": "RaySist's Favoritter",
+            "items": [
+              {
+                "id": 2316,
+                "title": "The Office",
+                "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+                "type": "series"
+              },
+              {
+                "id": 1100,
+                "title": "How I Met Your Mother",
+                "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+                "type": "series"
+              },
+              {
+                "id": 48891,
+                "title": "Brooklyn Nine-Nine",
+                "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgRMSOt7a1b8qyQR68vUixJPang.jpg",
+                "type": "series"
+              },
+              {
+                "id": 46952,
+                "title": "The Blacklist",
+                "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r935SMphvXppx5bJjbIBNx02fwc.jpg",
+                "type": "series"
+              },
+              {
+                "id": 3796,
+                "title": "Trailer Park Boys",
+                "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIcIwVTYcZnW1BDzexGfFO7KmX1.jpg",
+                "type": "series"
+              },
+              {
+                "id": 1396,
+                "title": "Breaking Bad",
+                "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+                "type": "series"
+              }
+            ]
+          }
+        ]
       }
-    ]
-  }
-}
+    }
